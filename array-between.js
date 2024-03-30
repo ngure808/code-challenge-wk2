@@ -15,4 +15,4 @@ function between(num1, num2){
 }
 
 // call the function with specific arguments
-between(-4,34)
+between()
