@@ -32,7 +32,7 @@
     - for loop that searches for divisers of the numbers in the array that when divided the remainder = 0 and returns false
     - if a number goes through this loop and does satisfy the conditions it exits the loop and return true (this the prime numbers which are only divisibe by 1 and themselves)
 
-## Live Link
+# Live Link
 [text](https://github.com/ngure808/code-challenge-wk2.git)
 
 ## Techonologies used
